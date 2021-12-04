@@ -1,0 +1,18 @@
+.apartamento {
+  height: 60vh;
+  margin: 0.2%;
+  color: red;
+  justify-content:space-between;
+
+}
+.link-topo{
+  text-align: left;
+}
+
+tbody tr th {
+  width: 10;
+}
+
+#idApartamento{
+  margin-left: 35px;
+}

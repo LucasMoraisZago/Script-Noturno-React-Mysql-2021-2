@@ -1,0 +1,16 @@
+.sectionTable {
+  height: 60vh;
+  margin: 0.2%;
+  text-align: left;
+  color: red;
+
+}
+
+div.oculto{
+  display: none !important;
+}
+
+.separa-botao{
+  margin-left: 10px;
+}
+
